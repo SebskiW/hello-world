@@ -1,2 +1,2 @@
-# hello-world
+# Java hello-world
 Reference Java app 
